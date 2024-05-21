@@ -1,3 +1,4 @@
 Mleko, 3
 Jogurt, 2
 Jaja, 1
+Plazma, 2
